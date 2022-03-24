@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhargav-rathod
-- 👀 I’m interested in learning and exploring new things
+- 👀 I’m interested in exploring and learning new things
 - 🌱 I’m currently working on Product Development, Architecture and Software Engineering
 - 💞️ I love to explore all the opportunities in this tech and competitive era 
 - 📫 You can reach me at: bhargavrathod98@gmail.com
