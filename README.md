@@ -6,9 +6,9 @@
 I mostly refactor things here! 😁
 <br/> <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bhargav_Rathod-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-rathod/)](https://www.linkedin.com/in/bhargav-rathod/) &nbsp;&nbsp;&nbsp;
-[![Website Badge](https://img.shields.io/badge/-Bhargav's_Diary-pink?style=flat&logo=Google-Chrome&logoColor=white&link=https://bhargavsdiary.wordpress.com)](https://bhargavsdiary.wordpress.com) &nbsp;&nbsp;&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-@bhargav__rathod-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhargav__rathod)](https://twitter.com/bhargav__rathod) &nbsp;&nbsp;&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-Bhargav_Rathod-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhargav-rathod/)](https://www.linkedin.com/in/bhargav-rathod/) 
+[![Website Badge](https://img.shields.io/badge/-Bhargav's_Diary-pink?style=flat&logo=Google-Chrome&logoColor=white&link=https://bhargavsdiary.wordpress.com)](https://bhargavsdiary.wordpress.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@bhargav__rathod-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhargav__rathod)](https://twitter.com/bhargav__rathod) 
 
 ### About Me:
 - 🔭 I’m currently working at EdgeVerve - An Infosys company.
