@@ -11,15 +11,22 @@ I mostly refactor things here! 😁
 [![Twitter Badge](https://img.shields.io/badge/-@bhargav__rathod-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bhargav__rathod)](https://twitter.com/bhargav__rathod) 
 
 ### About Me:
-- 🔭 I’m currently working at EdgeVerve - An Infosys company.
+- 🔭 I’m Sr. Software Engineer and working with Healthcare, Lifescience & AI powered Product Development.
+- 👨‍🎓 Responsible Scrum Master and Full-Stack Developer with a demonstrated history of working in the IT industries.
+- 💻 Skilled in .NET (Unified, Core & Framework), C#, OOPs, UI/UX with Angular, Microservices, DBMS (MSSQL, PostgreSQL, Cosmos & Aurora), RPA, DevOps with Azure & Jenkins, Product architectures and Design solution technologies.
 - 🧠 I'm an enthusiastic learner who's always seeking new knowledge and skills.
-- 🏗️ Currently, I'm deeply engaged in Product Development, Architecture, Designing and Software Engineering.
+- 🏗️ Currently, I'm deeply engaged in Product Development, Architecture, Designing and Software Engineering. Learning AI/ML Concepts intrestingly in domain of LLM and NLP.
 - 💞️ Writing blogs ✍️ and sharing my explorations is something I'm truly passionate about.
 - 📧 Feel free to reach out to me via email at bhargavrathod98@gmail.com.
 - 🔗 You can also connect with me on LinkedIn: http://www.linkedin.com/in/bhargav-rathod
 
-### My Absolute Favorites:
+### Work Experience:
+- **[ APR 2024 - CURRENT ]** Sr. Software Engineer (Full-Stack)/ Developer Scrum Master at DataArt [IQVIA - Q2 Lab Solutions]
+- **[ DEC 2021 - MAR 2024 ]** Member of Technical Staff at EdgeVerve (An Infosys Company)
+- **[ AUG 2019 - DEC 2021 ]** Senior Systems Engineer (RPA) at Infosys Limited.
+- **[ DEC 2018 - APR 2019 ]** Intern at Infosys Limited.
 
+### My Absolute Favorites:
 - 💻 &nbsp; I love Functional Programming and building cool stuffs.
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Pizza, Coffee, Introvert & Tech events.
@@ -28,7 +35,7 @@ I mostly refactor things here! 😁
 - 🪲 &nbsp; Coder and Bug solver.
 - 📕 &nbsp; Obsessed with J.K. Rowling for fiction and Sadhguru for sprituality.
 
-### Thanks for your time, here's a random joke:
+### Thanks for your time, here's a random joke for you:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
