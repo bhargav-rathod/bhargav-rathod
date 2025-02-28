@@ -37,6 +37,10 @@ I mostly refactor things here! 😁
 - 🪲 &nbsp; Coder and Bug solver.
 - 📕 &nbsp; Obsessed with J.K. Rowling for fiction and Sadhguru for sprituality.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### Thanks for your time, here's a random joke for you:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
