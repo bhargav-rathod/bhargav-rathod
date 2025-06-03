@@ -9,7 +9,7 @@ I mostly refactor things here! 😁
 [![LinkedIn Badge](https://img.shields.io/badge/-Bhargav_Rathod-blue?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/bhargav-rathod)](https://www.linkedin.com/in/bhargav-rathod) 
 [![X Badge](https://img.shields.io/badge/-@bhargav__rathod-1ca0f1?style=flat&labelColor=1ca0f1&logo=x&logoColor=white&link=https://twitter.com/bhargav__rathod)](https://twitter.com/bhargav__rathod) 
 [![Leetcode Badge](https://img.shields.io/badge/-@bhargav__rathod-yellow?style=flat&labelColor=yellow&logo=leetcode&logoColor=white&link=https://leetcode.com/u/bhargav-rathod)](https://leetcode.com/u/bhargav-rathod) 
-[![Website Badge](https://img.shields.io/badge/-Bhargav's_Diary-pink?style=flat&logo=Google-Chrome&logoColor=white&link=https://bhargavsdiary.wordpress.com)](https://bhargavsdiary.wordpress.com) 
+[![Website Badge](https://img.shields.io/badge/-Bhargav's_Portfolio-pink?style=flat&logo=Google-Chrome&logoColor=white&link=https://bhargav-rathod.netlify.app)](https://bhargav-rathod.netlify.app) 
 
 ### About Me:
 - 🔭 I’m Sr. Software Engineer and working with Healthcare, Lifescience & AI powered Product Development.
