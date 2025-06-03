@@ -22,7 +22,7 @@ I mostly refactor things here! 😁
 - 🔗 You can also connect with me on LinkedIn: http://www.linkedin.com/in/bhargav-rathod
 
 ### Work Experience:
-- **[ APR 2024 - CURRENT ]** Sr. Software Engineer (Full-Stack)/ Developer Scrum Master at DataArt [IQVIA - Q2 Lab Solutions]
+- **[ APR 2024 - CURRENT ]** Sr. Software Engineer (Full-Stack) at DataArt [IQVIA - Q2 Lab Solutions]
 - **[ DEC 2021 - MAR 2024 ]** Member of Technical Staff at EdgeVerve (An Infosys Company)
 - **[ AUG 2019 - DEC 2021 ]** Senior Systems Engineer (RPA) at Infosys Limited.
 - **[ DEC 2018 - APR 2019 ]** Intern at Infosys Limited.
