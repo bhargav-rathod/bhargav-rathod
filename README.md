@@ -12,6 +12,9 @@ I mostly refactor things here! 😁
 [![Leetcode Badge](https://img.shields.io/badge/-@bhargav__rathod-yellow?style=flat&labelColor=yellow&logo=leetcode&logoColor=white&link=https://leetcode.com/u/bhargav-rathod)](https://leetcode.com/u/bhargav-rathod) 
 
 ### About Me:
+
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 - 🔭 I’m Sr. Software Engineer and working with Healthcare, Lifescience & AI powered Product Development.
 - 👨‍🎓 Responsible Scrum Master and Full-Stack Developer with a demonstrated history of working in the IT industries.
 - 💻 Skilled in Data Structures & Algorithms, .NET (Unified, Core & Framework), C#, OOPs, UI/UX with Angular, Microservices, DBMS (MSSQL, PostgreSQL, Cosmos & Aurora), RPA, DevOps with Azure & Jenkins, Product architectures and Design solution technologies.
@@ -26,6 +29,19 @@ I mostly refactor things here! 😁
 - **[ DEC 2021 - MAR 2024 ]** Member of Technical Staff at EdgeVerve (An Infosys Company)
 - **[ AUG 2019 - DEC 2021 ]** Senior Systems Engineer (RPA) at Infosys Limited.
 - **[ DEC 2018 - APR 2019 ]** Intern at Infosys Limited.
+
+### My Github Stats:
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargav-rathod&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-rathod&langs_count=11&&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+</td>
+  </tr>
+</table>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love Functional Programming and building cool stuffs.
